@@ -1,2 +1,3 @@
 # epi-test
-playing about with epigenetics data
+
+Playing about with some ML using epigenetics data
